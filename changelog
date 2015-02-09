@@ -1,4 +1,16 @@
-commit d41360eb6519fd52db66d1ff19ed3db419c21345 (HEAD, origin/master, origin/HEAD, master)
+commit 7abbd1a27fe454eaedf34fa6b9a3397f137f4a81 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sun Feb 8 20:54:36 2015 -0430
+
+    * travis
+
+commit 244206ab99813342327c2ba32e840fda8e98a83b
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sun Feb 8 20:52:46 2015 -0430
+
+    * changelog
+
+commit d41360eb6519fd52db66d1ff19ed3db419c21345
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Sun Feb 8 20:52:33 2015 -0430
 
