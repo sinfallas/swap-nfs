@@ -1,4 +1,16 @@
-commit 7abbd1a27fe454eaedf34fa6b9a3397f137f4a81 (HEAD, origin/master, origin/HEAD, master)
+commit 2cf9465b9604beb4eea8fc23f1d1c5d90d0d8468 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sun Feb 8 20:56:34 2015 -0430
+
+    * imagen travis
+
+commit 7578272ccc2a9ada1f3ec022270d81834256aa35
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sun Feb 8 20:54:49 2015 -0430
+
+    * changelog
+
+commit 7abbd1a27fe454eaedf34fa6b9a3397f137f4a81
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Sun Feb 8 20:54:36 2015 -0430
 
