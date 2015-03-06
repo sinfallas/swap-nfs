@@ -11,4 +11,5 @@ mount /swap
 losetup /dev/loop0 /swap/swapfile
 mkswap /dev/loop0
 swapon /dev/loop0
+echo -e "\e[00;1;92mFinished...\e[00m"
 exit 0
