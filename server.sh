@@ -1,6 +1,6 @@
 #!/bin/bash
-if [ $USER != root ]; then
-echo "Error: must be root"
+if [[ $USER != root ]]; then
+echo -e "\e[00;31mERROR: must be root\e[00m"
 exit 1
 fi
 apt update
